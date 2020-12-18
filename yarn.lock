@@ -220,10 +220,10 @@ device-uuid@^1.0.4:
   resolved "https://registry.yarnpkg.com/device-uuid/-/device-uuid-1.0.4.tgz#f6973e58f19b92a237aeca7b16a395ae7195a883"
   integrity sha1-9pc+WPGbkqI3rsp7FqOVrnGVqIM=
 
-dompurify@^1.0.3:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-1.0.8.tgz#3fa0d91fde3827d6509d83b43444da56a2796795"
-  integrity sha512-vetRFbN1SXSPfP3ClIiYnxTrXquSqakBEOoB5JESn0SVcSYzpu6ougjakpKnskGctYdlNpwf+riUHSkG7d4XUw==
+dompurify@^2.0.17:
+  version "2.0.17"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.17.tgz#505ffa126a580603df4007e034bdc9b6b738668e"
+  integrity sha512-nNwwJfW55r8akD8MSFz6k75bzyT2y6JEa1O3JrZFBf+Y5R9JXXU4OsRl0B9hKoPgHTw2b7ER5yJ5Md97MMUJPg==
 
 flag-icon-css@^3.2.1:
   version "3.2.1"
