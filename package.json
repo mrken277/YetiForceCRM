@@ -37,7 +37,7 @@
     "clockpicker": "^0.0.7",
     "color-convert": "^1.9.3",
     "css-element-queries": "^1.0.5",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.11.3",
     "datatables.net-bs4": "^1.10.19",
     "datatables.net-responsive-bs4": "^2.2.3",
     "device-uuid": "^1.0.4",
